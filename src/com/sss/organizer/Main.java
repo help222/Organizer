@@ -5,9 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.*;
 
-/**
- * Created by Zheka on 09.12.2015.
- */
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

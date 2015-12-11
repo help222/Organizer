@@ -3,9 +3,6 @@ package com.sss.organizer;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Zheka on 09.12.2015.
- */
 public class EventsGen {
     public static List<String> events(){
         List<String> event = new ArrayList<String>();
